@@ -11,3 +11,4 @@ CHR$ codes were used.
 I will then try to work out some of the strange code and comment it.
 Following that I will try and optimise the code.
  
+Please check out issues / wiki and the project kanban. 
